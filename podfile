@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'MyARC' do
+    
+    pod 'ReactiveCocoa', '~> 8.0.2'
+    
+end
